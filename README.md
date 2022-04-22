@@ -1,6 +1,6 @@
 # Desafio de Projeto sobre Git/GitHub da DIO 
 ##### Repositório criado para o Desafio de Projeto :man_technologist:
-
+</br>
 
 ## Neste desafio quis fazer um projeto simples de JavaScript para me desafiar! :blush::v:
 
